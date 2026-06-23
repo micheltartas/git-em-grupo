@@ -1,12 +1,17 @@
 #include <iostream>
 using namespace std;
 
-void saudacao(){
-	cout << "Bem-vindo ao sistema!" << endl;
+void despedida(){
+	cout << "Até breve! " << endl;
 }
+void saudacao(){
+	cout << "Bem-vindo ao sistema!" <<endl;	
+} 
 
-int main (){
+int main(){
+	despedida();
 	saudacao();
 	cout << "Projeto em Grupo" << endl;
-	return 0;
+	
+	return 0; 
 }
