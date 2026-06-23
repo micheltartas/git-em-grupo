@@ -6,7 +6,8 @@ void despedida(){
 }
 void saudacao(){
 	cout << "Sistema Altos pode cre" <<endl;	
-} 
+	cout << "qualquer coisa" <<endl;	
+}
 
 int main(){
 	despedida();
