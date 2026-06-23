@@ -2,10 +2,10 @@
 using namespace std;
 
 void despedida(){
-	cout << "Até breve! " << endl;
+	cout << "AtÃ© breve! " << endl;
 }
 void saudacao(){
-	cout << "Bem-vindo ao sistema!" <<endl;	
+	cout << "Sistema Altos pode cre" <<endl;	
 } 
 
 int main(){
